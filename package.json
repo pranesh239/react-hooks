@@ -1,7 +1,14 @@
 {
   "name": "hooks",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
+  "keywords": [
+    "react-hooks",
+    "useMemo",
+    "useCallback"
+  ],
+  "author": "T G Pranesh <praneshpsg239@gmail.com> (https://github.com/pranesh239)",
+  "homepage": "https://github.com/pranesh239/react-hooks",
   "dependencies": {
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
